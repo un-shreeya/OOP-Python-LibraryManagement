@@ -1,5 +1,4 @@
-'''📖 Library Management System (Complete OOP Project)
-Design a Python program to manage a Library Management System using Object-Oriented Programming concepts.'''
+#Library Management System (Complete OOP Project)
 
 from abc import ABC , abstractmethod
 class LibraryItem(ABC):
@@ -151,3 +150,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
